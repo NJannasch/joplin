@@ -14,6 +14,7 @@
     "moment": "^2.24.0",
     "mustache": "^2.3.0",
     "node-fetch": "^1.7.3",
+    "react-scripts": "^3.2.0",
     "request": "^2.85.0",
     "string-padding": "^1.0.2",
     "uri-template": "^1.0.1",
