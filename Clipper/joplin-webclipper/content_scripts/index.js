@@ -87,7 +87,7 @@
 		const output = [];
 		for (let i = 0; i < anchors.length; i++) {
 			const anchor = anchors[i];
-			console.log(anchor.name);
+			console.log(anchor.id);
 			if (anchor.id) {
 				output.push(anchor.id);
 			} else if (anchor.name) {
